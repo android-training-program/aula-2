@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome">Hello world 👋</string>
+
+    <string name="open_camera">Open camera</string>
+    <string name="open_details">Open details</string>
+
+    <string name="time_remaining">Remaining %d seconds</string>
+    <string name="time_done">Finished!</string>
+
+
+    <!-- Content Description -->
+    <string name="description_image">Image of a dog</string>
+</resources>

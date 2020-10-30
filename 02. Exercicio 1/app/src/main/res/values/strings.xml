@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome">Hello world 👋</string>
+
+    <!-- Buttons -->
+    <string name="open_camera">Open camera</string>
+    <string name="open_details">Open details</string>
+    <string name="show_dialog">Show dialog</string>
+
+    <!-- Dialog -->
+    <string name="dialog_title">Bobi</string>
+    <string name="dialog_message">What a beautiful dog!</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_ok_selected">You selected ok!</string>
+    <string name="dialog_action_cancel">Cancel</string>
+
+    <string name="time_remaining">Remaining %d seconds</string>
+    <string name="time_done">Finished!</string>
+
+    <!-- Content Description -->
+    <string name="description_image">Image of a dog</string>
+</resources>

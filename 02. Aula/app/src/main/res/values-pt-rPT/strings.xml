@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bobi</string>
+
+    <string name="welcome">Olá Mundo 👋</string>
+
+    <string name="open_camera">Abrir a câmara</string>
+    <string name="open_details">Abrir os detalhes</string>
+
+    <string name="time_remaining">Faltam %d segundos</string>
+    <string name="time_done">Feito!</string>
+
+    <!-- Content Description -->
+    <string name="description_image">Imagem de um cão</string>
+</resources>
